@@ -43,10 +43,10 @@ class _DogsGridState extends State<DogsGrid> {
                     return Image.network(dogImages[i]);
                   },
                   gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                    crossAxisCount: 3, //1 개의 행에 보여줄 item 개수
-                    childAspectRatio: 1 / 1, //item 의 가로 1, 세로 2 의 비율
-                    mainAxisSpacing: 3, //수평 Padding
-                    crossAxisSpacing: 10, //수직 Padding
+                    crossAxisCount: 3,
+                    childAspectRatio: 1 / 1,
+                    mainAxisSpacing: 3,
+                    crossAxisSpacing: 10,
                   ),
                 );
               }
