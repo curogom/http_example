@@ -2,15 +2,9 @@
 
 An example for using http connect in a Flutter.
 
-## Getting Started
+Flutter 에서 HTTP 통신을 활용한 예제 프로젝트 입니다.
 
-This project is a starting point for a Flutter application.
+## 관련 문서
+https://curogom.notion.site/Flutter-Network-API-Connection-40c9a917022a47d884441f95cd5b6e16
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://curogom.com
